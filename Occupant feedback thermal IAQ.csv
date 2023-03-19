@@ -1,283 +1,288 @@
 Timestamp,Please select your seated position,Temperature [Overall],Temperature [Head],Temperature [Body],Temperature [Hand],Temperature [Leg],Air Movement [Overall],Air Movement [Head],Air Movement [Body],Air Movement [Hand],Air Movement [Leg],Air Quality ,Odour perception of the room,How satisfied are you with the following: [Temperature],How satisfied are you with the following: [Air movement],How satisfied are you with the following: [Air quality],Physical effects [Headaches],Physical effects [Difficulty in concentration],Physical effects [Dry skin],Physical effects [Sleepiness],Physical effects [Itching eyelids],Physical effects [Dry eyes],Physical effects [Throat irritation],Physical effects [Runny nose],Physical effects [Sneezing/coughing]
-2023/03/03 2:34:42 pm GMT+5:30,10,Just nice,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Fresh,Neutral,Neutral,Neutral,Somewhat satisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 2:35:03 pm GMT+5:30,8,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,Too weak,Too weak,Too weak,Too weak,Too weak,A little stale,Neutral,Somewhat Dissatisfied,Dissatisfied,Somewhat Dissatisfied,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:35:28 pm GMT+5:30,9,Slightly cool,Just nice,Just nice,Slightly cool,Slightly cool,Just nice,A little weak,A little weak,A little weak,Just nice,Just nice,Slightly pleasant,Satisfied,Satisfied,Satisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:35:30 pm GMT+5:30,21,Just nice,Slightly warm,Just nice,Slightly cool,Slightly warm,Too weak,Too weak,Too weak,Too weak,Too weak,A little fresh,Neutral,Somewhat satisfied,Very dissatisfied,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:35:47 pm GMT+5:30,1,Just nice,Slightly warm,Just nice,Just nice,Slightly cool,None,None,None,None,Just nice,Just nice,Neutral,Somewhat Dissatisfied,Neutral,Neutral,Not at all,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,A little,A little
-2023/03/03 2:35:53 pm GMT+5:30,14,Slightly warm,Slightly warm,Warm,Slightly warm,Warm,Too weak,A little weak,Too weak,A little weak,Too weak,Just nice,Neutral,Dissatisfied,Dissatisfied,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:36:03 pm GMT+5:30,22,Warm,Slightly warm,Warm,Slightly warm,Warm,None,None,None,None,None,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:36:03 pm GMT+5:30,18,Slightly warm,Slightly warm,Warm,Just nice,Just nice,None,None,None,None,None,Just nice,Neutral,Neutral,Somewhat Dissatisfied,Neutral,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:36:06 pm GMT+5:30,7,Slightly warm,Warm,Warm,Just nice,Warm,Just nice,A little weak,Just nice,Just nice,Just nice,Just nice,Neutral,Somewhat Dissatisfied,Neutral,Satisfied,A little,A little,Moderate,Not at all,Moderate,Moderate,A little,Moderate,Moderate
-2023/03/03 2:36:07 pm GMT+5:30,20,Slightly warm,Slightly warm,Warm,Slightly warm,Slightly warm,A little weak,A little weak,Too weak,A little weak,Just nice,Fresh,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:36:11 pm GMT+5:30,19,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Warm,Too weak,Too weak,Too weak,Too weak,None,A little fresh,Neutral,Somewhat Dissatisfied,Dissatisfied,Neutral,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:36:11 pm GMT+5:30,13,Warm,Warm,Warm,Slightly warm,Warm,A little weak,A little weak,Too weak,A little weak,Too weak,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,A little,A little,Not at all,Not at all,Not at all,Not at all,A little,A little,A little
-2023/03/03 2:36:22 pm GMT+5:30,23,Slightly warm,Slightly warm,Warm,Slightly warm,Warm,Too weak,A little weak,Too weak,A little weak,Too weak,Stale,Unpleasant,Very dissatisfied,Very dissatisfied,Very dissatisfied,Not at all,Moderate,Moderate,A little,Not at all,A little,Not at all,Not at all,Not at all
-2023/03/03 2:36:51 pm GMT+5:30,2,Just nice,Slightly warm,Just nice,Just nice,Slightly warm,Too weak,None,None,None,None,A little stale,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:36:55 pm GMT+5:30,4,Just nice,Slightly warm,Slightly warm,Just nice,Just nice,None,None,None,None,None,Stale,Neutral,Neutral,Dissatisfied,Dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 2:36:59 pm GMT+5:30,11,Slightly warm,Just nice,Slightly warm,Slightly warm,Warm,Too weak,Too weak,None,Too weak,None,A little stale,Neutral,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,Moderate,Moderate,Moderate,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 2:37:21 pm GMT+5:30,6,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Warm,None,None,None,None,None,A little fresh,Neutral,Neutral,Somewhat satisfied,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:37:56 pm GMT+5:30,17,Just nice,Slightly cool,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:38:02 pm GMT+5:30,24,Just nice,Just nice,Slightly cool,Just nice,Just nice,A little strong,A little strong,Just nice,A little strong,Just nice,A little stale,Slightly pleasant,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:38:14 pm GMT+5:30,15,Warm,Hot,Warm,Warm,Warm,None,None,None,Too weak,None,Just nice,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,A little,Not at all,Not at all,A little,Not at all,A little,Not at all,A little
-2023/03/03 2:38:26 pm GMT+5:30,3,Slightly warm,Hot,Slightly warm,Warm,Slightly warm,A little weak,Just nice,A little weak,A little weak,Too weak,Just nice,Neutral,Somewhat Dissatisfied,Dissatisfied,Neutral,Not at all,Not at all,A little,A little,Not at all,A little,A little,Moderate,A little
-2023/03/03 2:38:31 pm GMT+5:30,12,Just nice,Slightly warm,Just nice,Slightly warm,Slightly warm,A little weak,Too weak,A little weak,Too weak,Too weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 2:38:36 pm GMT+5:30,16,Just nice,Slightly cool,Just nice,Just nice,Slightly cool,Just nice,Just nice,Just nice,Just nice,Just nice,A little stale,Slightly unpleasant,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 2:39:06 pm GMT+5:30,5,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Just nice,None,None,None,None,None,A little stale,Neutral,Somewhat Dissatisfied,Neutral,Neutral,A little,Moderate,Not at all,Not at all,A little,A little,Not at all,Not at all,A little
-2023/03/03 2:46:48 pm GMT+5:30,2,Just nice,Slightly warm,Slightly warm,Just nice,Slightly warm,Just nice,A little weak,A little weak,Just nice,A little weak,A little stale,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:47:00 pm GMT+5:30,15,Hot,Hot,Hot,Hot,Hot,None,None,None,None,None,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,A little,Not at all,Not at all,A little,A little,A little,Not at all,A little
-2023/03/03 2:47:01 pm GMT+5:30,1,Just nice,Slightly warm,Slightly warm,Slightly cool,Slightly cool,None,None,None,None,Just nice,Just nice,Neutral,Somewhat Dissatisfied,Neutral,Neutral,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,A little,A little
-2023/03/03 2:47:11 pm GMT+5:30,10,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 2:47:20 pm GMT+5:30,4,Warm,Warm,Warm,Warm,Slightly warm,None,None,None,None,None,Stale,Neutral,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,A little,Not at all,Moderate,A little,Not at all,A little,Not at all,Not at all
-2023/03/03 2:47:22 pm GMT+5:30,14,Slightly warm,Warm,Slightly warm,Warm,Slightly warm,Too weak,A little weak,Too weak,A little weak,Too weak,Just nice,Neutral,Dissatisfied,Dissatisfied,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:47:25 pm GMT+5:30,21,Slightly warm,Warm,Slightly warm,Slightly warm,Slightly warm,Too weak,Too weak,Too weak,Too weak,Too weak,A little stale,Neutral,Somewhat Dissatisfied,Dissatisfied,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:47:44 pm GMT+5:30,3,Slightly warm,Warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,Too weak,A little weak,Too weak,A little stale,Slightly unpleasant,Somewhat satisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,A little,A little,A little,A little,Not at all,A little,A little,Moderate,Not at all
-2023/03/03 2:47:44 pm GMT+5:30,20,Slightly warm,Slightly warm,Slightly warm,Just nice,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:47:46 pm GMT+5:30,19,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,Just nice,Neutral,Dissatisfied,Dissatisfied,Neutral,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:47:49 pm GMT+5:30,13,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,A little weak,Too weak,Stale,Slightly unpleasant,Dissatisfied,Very dissatisfied,Dissatisfied,A little,Not at all,Not at all,Not at all,Not at all,A little,A little,A little,A little
-2023/03/03 2:47:55 pm GMT+5:30,17,Slightly warm,Warm,Warm,Slightly warm,Warm,A little weak,Just nice,A little weak,A little weak,Too weak,Just nice,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:48:01 pm GMT+5:30,18,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,None,None,None,None,None,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:48:06 pm GMT+5:30,11,Slightly warm,Slightly cool,Just nice,Just nice,Slightly warm,Too weak,Too weak,None,Too weak,None,A little stale,Neutral,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:48:09 pm GMT+5:30,9,Slightly cool,Just nice,Just nice,Slightly cool,Slightly cool,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Somewhat Dissatisfied,A little,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:48:26 pm GMT+5:30,22,Slightly warm,Slightly warm,Warm,Slightly warm,Slightly warm,None,None,None,None,None,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:48:35 pm GMT+5:30,23,Just nice,Just nice,Slightly warm,Just nice,Slightly warm,Just nice,Just nice,A little weak,Just nice,A little weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,A little,A little,Not at all,Not at all,A little,Not at all,Not at all,Not at all
-2023/03/03 2:48:37 pm GMT+5:30,12,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Warm,Too weak,Too weak,A little weak,A little weak,Too weak,A little stale,Neutral,Somewhat Dissatisfied,Dissatisfied,Somewhat Dissatisfied,A little,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 2:48:38 pm GMT+5:30,6,Warm,Warm,Warm,Slightly warm,Slightly warm,None,None,None,None,None,Just nice,Neutral,Somewhat satisfied,Neutral,Somewhat Dissatisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:48:39 pm GMT+5:30,8,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,Too weak,A little weak,Too weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,A little,Not at all,Moderate,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:48:40 pm GMT+5:30,7,Cool,Slightly warm,Slightly warm,Slightly warm,Just nice,None,A little weak,Just nice,Just nice,Just nice,Just nice,Neutral,Somewhat satisfied,Satisfied,Satisfied,Moderate,Not at all,A little,Not at all,A little,A little,Not at all,A little,A little
-2023/03/03 2:48:47 pm GMT+5:30,24,Just nice,Just nice,Just nice,Slightly cool,Just nice,Just nice,A little strong,Just nice,Just nice,Just nice,A little stale,Neutral,Satisfied,Somewhat satisfied,Satisfied,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 2:49:18 pm GMT+5:30,5,Slightly warm,Slightly warm,Warm,Warm,Slightly warm,None,None,None,None,None,Just nice,Neutral,Somewhat Dissatisfied,Neutral,Neutral,A little,A little,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:00:45 pm GMT+5:30,21,Warm,Warm,Warm,Warm,Warm,None,None,None,None,None,Stale,Slightly unpleasant,Somewhat Dissatisfied,Dissatisfied,Dissatisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:00:55 pm GMT+5:30,10,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:00:56 pm GMT+5:30,19,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,Just nice,Neutral,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:00:57 pm GMT+5:30,18,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Just nice,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:01:02 pm GMT+5:30,23,Just nice,Just nice,Slightly warm,Just nice,Slightly warm,Just nice,Just nice,A little weak,Just nice,A little weak,Just nice,Neutral,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,Not at all,A little,A little,Not at all,A little,Not at all,Not at all,Not at all
-2023/03/03 3:01:05 pm GMT+5:30,2,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:01:12 pm GMT+5:30,4,Warm,Warm,Warm,Warm,Slightly warm,None,None,None,None,None,Stale,Neutral,Very dissatisfied,Very dissatisfied,Very dissatisfied,Not at all,Moderate,Not at all,Moderate,A little,Not at all,A little,Not at all,Not at all
-2023/03/03 3:01:12 pm GMT+5:30,22,Warm,Warm,Warm,Slightly warm,Slightly warm,Too weak,Too weak,Too weak,Too weak,Too weak,A little stale,Neutral,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:01:21 pm GMT+5:30,17,Warm,Warm,Slightly warm,Warm,Warm,A little weak,Too weak,Too weak,A little weak,A little weak,Just nice,Neutral,Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:01:23 pm GMT+5:30,15,Warm,Warm,Warm,Warm,Warm,None,None,None,Too weak,None,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,A little,A little,Not at all,A little,Not at all,A little,A little,A little
-2023/03/03 3:01:31 pm GMT+5:30,13,Slightly warm,Just nice,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,A little,Not at all,Not at all,Not at all,A little,Not at all,A little,A little,A little
-2023/03/03 3:01:35 pm GMT+5:30,12,Slightly warm,Warm,Slightly warm,Warm,Hot,A little weak,Too weak,A little weak,A little weak,Too weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,A little,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:01:37 pm GMT+5:30,1,Just nice,Slightly warm,Just nice,Slightly warm,Slightly cool,None,None,None,None,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little,Moderate
-2023/03/03 3:01:39 pm GMT+5:30,11,Slightly cool,Cool,Slightly cool,Slightly cool,Just nice,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:01:45 pm GMT+5:30,20,Slightly warm,Slightly warm,Warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Moderate,A little,A little,Not at all,A little,Not at all,Not at all,Not at all
-2023/03/03 3:01:47 pm GMT+5:30,7,Warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,None,None,None,None,None,A little stale,Neutral,Dissatisfied,Neutral,Neutral,A little,A little,Moderate,Not at all,A little,A little,A little,A little,A little
-2023/03/03 3:01:48 pm GMT+5:30,3,Just nice,Slightly warm,Just nice,Warm,Slightly warm,A little weak,Too weak,Too weak,Just nice,A little weak,A little stale,Slightly unpleasant,Dissatisfied,Somewhat Dissatisfied,Dissatisfied,Not at all,A little,Moderate,A little,Not at all,A little,A little,A little,Not at all
-2023/03/03 3:01:52 pm GMT+5:30,14,Warm,Slightly warm,Warm,Slightly warm,Warm,A little weak,A little weak,Too weak,A little weak,Too weak,Just nice,Neutral,Dissatisfied,Dissatisfied,Neutral,Not at all,Not at all,Not at all,Moderate,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:02:20 pm GMT+5:30,6,Hot,Hot,Hot,Hot,Hot,None,None,None,None,None,A little stale,Neutral,Dissatisfied,Neutral,Somewhat Dissatisfied,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:02:21 pm GMT+5:30,24,Slightly warm,Slightly warm,Slightly warm,Just nice,Slightly warm,A little weak,A little weak,Too weak,A little weak,Too weak,A little stale,Slightly pleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,A little,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:02:39 pm GMT+5:30,5,Warm,Slightly warm,Warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,A little,Moderate,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:02:54 pm GMT+5:30,8,Warm,Warm,Warm,Slightly warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,Stale,Slightly unpleasant,Very dissatisfied,Dissatisfied,Dissatisfied,Intense,Moderate,Not at all,Intense,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:03:39 pm GMT+5:30,16,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,A little,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:04:26 pm GMT+5:30,9,Cool,Just nice,Just nice,Just nice,Cool,Just nice,Just nice,Just nice,Just nice,Just nice,A little stale,Slightly unpleasant,Satisfied,Somewhat satisfied,Neutral,A little,Moderate,Not at all,Moderate,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:17:26 pm GMT+5:30,14,Slightly warm,Slightly warm,Warm,Slightly warm,Warm,A little weak,A little weak,Too weak,A little weak,Too weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,Not at all,A little,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:17:32 pm GMT+5:30,19,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,None,A little stale,Neutral,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:17:53 pm GMT+5:30,15,Hot,Hot,Hot,Hot,Hot,None,None,None,None,None,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,Moderate,Not at all,Not at all,A little,A little,A little,Not at all,A little
-2023/03/03 3:18:00 pm GMT+5:30,21,Warm,Warm,Warm,Warm,Warm,None,None,None,None,None,Stale,Slightly unpleasant,Very dissatisfied,Very dissatisfied,Very dissatisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:18:14 pm GMT+5:30,20,Warm,Warm,Warm,Slightly warm,Warm,A little weak,A little weak,Too weak,A little weak,A little weak,A little fresh,Neutral,Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,A little,Moderate,A little,A little,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:18:56 pm GMT+5:30,23,Just nice,Just nice,Slightly warm,Just nice,Warm,A little weak,A little weak,Too weak,A little weak,Too weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,A little,A little,Moderate,A little,Moderate,Not at all,Not at all,Not at all
-2023/03/03 3:20:11 pm GMT+5:30,2,Warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Somewhat Dissatisfied,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:30:18 pm GMT+5:30,1,Just nice,Just nice,Just nice,Just nice,Slightly cool,None,None,None,None,Too weak,A little stale,Neutral,Somewhat Dissatisfied,Neutral,Neutral,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little,Moderate
-2023/03/03 3:31:33 pm GMT+5:30,8,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,Very stale,Slightly unpleasant,Very dissatisfied,Very dissatisfied,Dissatisfied,Intense,Intense,Not at all,Intense,Moderate,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:31:48 pm GMT+5:30,19,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,A little stale,Neutral,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:31:49 pm GMT+5:30,7,Cold,Cool,Cool,Cool,Cool,None,None,None,None,None,Just nice,Neutral,Very dissatisfied,Very satisfied,Very satisfied,A little,Not at all,A little,A little,A little,A little,A little,A little,A little
-2023/03/03 3:31:53 pm GMT+5:30,20,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Too weak,Too weak,Too weak,A little weak,A little weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,A little,A little,A little,A little,Not at all,A little,Not at all,Not at all,Not at all
-2023/03/03 3:31:55 pm GMT+5:30,10,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:32:03 pm GMT+5:30,12,Warm,Hot,Warm,Hot,Hot,A little weak,Too weak,Too weak,Too weak,Too weak,Stale,Slightly unpleasant,Very dissatisfied,Very dissatisfied,Very dissatisfied,Moderate,A little,Not at all,Moderate,A little,Not at all,A little,Not at all,Not at all
-2023/03/03 3:32:12 pm GMT+5:30,18,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:32:23 pm GMT+5:30,22,Hot,Hot,Hot,Hot,Hot,None,None,None,None,None,A little stale,Neutral,Very dissatisfied,Very dissatisfied,Dissatisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:32:27 pm GMT+5:30,24,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,Too weak,Too weak,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,A little,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:32:32 pm GMT+5:30,23,Just nice,Just nice,Just nice,Just nice,Hot,Too weak,Too weak,Too weak,Too weak,Too weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,A little,Moderate,Intense,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:32:46 pm GMT+5:30,21,Warm,Warm,Warm,Warm,Warm,None,None,None,None,None,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:32:59 pm GMT+5:30,17,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:33:06 pm GMT+5:30,2,Warm,Warm,Warm,Warm,Warm,A little weak,A little weak,A little weak,A little weak,A little weak,Stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:33:07 pm GMT+5:30,4,Warm,Warm,Warm,Warm,Slightly warm,None,None,None,None,None,Stale,Neutral,Very dissatisfied,Very dissatisfied,Very dissatisfied,A little,Moderate,Not at all,Moderate,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:33:46 pm GMT+5:30,11,Warm,Slightly warm,Warm,Slightly warm,Slightly warm,Strong,Far too strong,Strong,Strong,Strong,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,A little,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:33:47 pm GMT+5:30,13,Warm,Warm,Warm,Slightly warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,Stale,Unpleasant,Very dissatisfied,Dissatisfied,Dissatisfied,Moderate,A little,Not at all,Not at all,A little,Not at all,A little,A little,A little
-2023/03/03 3:33:53 pm GMT+5:30,3,Just nice,Warm,Slightly warm,Warm,Slightly warm,None,Too weak,Too weak,Too weak,Too weak,A little stale,Slightly unpleasant,Very dissatisfied,Very dissatisfied,Dissatisfied,Not at all,A little,A little,A little,Not at all,A little,A little,A little,Not at all
-2023/03/03 3:34:54 pm GMT+5:30,6,Hot,Hot,Hot,Hot,Hot,None,None,None,None,None,A little stale,Neutral,Dissatisfied,Neutral,Dissatisfied,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:34:57 pm GMT+5:30,5,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,None,None,None,None,None,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Neutral,Neutral,A little,A little,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:35:23 pm GMT+5:30,9,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little strong,A little strong,Just nice,Slightly unpleasant,Neutral,Neutral,Neutral,A little,Moderate,Not at all,Intense,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:35:28 pm GMT+5:30,14,Slightly warm,Slightly warm,Warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,Not at all,Moderate,Not at all,Moderate,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:37:00 pm GMT+5:30,16,Warm,Warm,Warm,Warm,Slightly warm,None,Too weak,None,Too weak,None,Stale,Unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,Moderate,A little,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:39:20 pm GMT+5:30,10,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:39:36 pm GMT+5:30,1,Just nice,Slightly warm,Just nice,Slightly cool,Slightly cool,Just nice,Just nice,Just nice,A little strong,A little strong,Just nice,Slightly pleasant,Neutral,Somewhat satisfied,Neutral,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:39:42 pm GMT+5:30,14,Just nice,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Slightly unpleasant,Neutral,Neutral,Somewhat Dissatisfied,Not at all,A little,Not at all,A little,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:39:48 pm GMT+5:30,7,Cool,Cool,Cool,Cool,Cold,Strong,Strong,Strong,Strong,A little strong,Just nice,Neutral,Satisfied,Satisfied,Satisfied,Not at all,Not at all,Not at all,Not at all,A little,A little,A little,Not at all,Not at all
-2023/03/03 3:39:57 pm GMT+5:30,9,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little strong,Just nice,Just nice,Just nice,Slightly pleasant,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Intense,Not at all,Not at all,Moderate,Not at all,Not at all
-2023/03/03 3:40:01 pm GMT+5:30,19,Just nice,Just nice,Just nice,Just nice,Slightly warm,A little strong,A little strong,A little strong,A little strong,A little strong,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:40:04 pm GMT+5:30,8,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Somewhat Dissatisfied,Somewhat satisfied,Somewhat satisfied,A little,A little,Not at all,Moderate,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:40:22 pm GMT+5:30,12,Just nice,Slightly warm,Just nice,Slightly warm,Warm,Just nice,Just nice,Just nice,A little weak,Too weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat satisfied,Neutral,A little,A little,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:40:28 pm GMT+5:30,21,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,A little weak,Just nice,A little weak,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:40:35 pm GMT+5:30,17,Slightly cool,Just nice,Slightly cool,Slightly cool,Just nice,A little strong,Just nice,A little strong,A little strong,Just nice,Just nice,Neutral,Neutral,Satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:40:41 pm GMT+5:30,18,Just nice,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,Just nice,A little weak,Just nice,Neutral,Neutral,Somewhat satisfied,Somewhat satisfied,A little,A little,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all
-2023/03/03 3:40:41 pm GMT+5:30,23,Just nice,Just nice,Slightly warm,Just nice,Warm,Just nice,Just nice,A little weak,Just nice,Too weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,Moderate,Moderate,Intense,A little,Moderate,A little,A little,A little
-2023/03/03 3:40:52 pm GMT+5:30,20,Just nice,Just nice,Slightly warm,Just nice,Just nice,A little strong,A little strong,Just nice,A little strong,Just nice,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,A little,A little,Moderate,Moderate,Moderate,A little,A little,Not at all,Not at all
-2023/03/03 3:40:57 pm GMT+5:30,24,Just nice,Just nice,Slightly warm,Just nice,Slightly warm,Just nice,A little strong,Just nice,Just nice,Just nice,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:41:02 pm GMT+5:30,11,Cool,Cool,Cool,Cool,Slightly cool,Strong,Strong,Strong,Strong,Just nice,A little stale,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:41:10 pm GMT+5:30,22,Just nice,Just nice,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little stale,Neutral,Neutral,Neutral,Somewhat Dissatisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:41:14 pm GMT+5:30,16,Just nice,Slightly warm,Slightly warm,Slightly warm,Just nice,Strong,A little strong,A little strong,Strong,A little strong,Just nice,Slightly unpleasant,Neutral,Somewhat satisfied,Somewhat Dissatisfied,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:41:46 pm GMT+5:30,4,Just nice,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Stale,Neutral,Very dissatisfied,Very dissatisfied,Very dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:43:32 pm GMT+5:30,3,Slightly cool,Just nice,Just nice,Just nice,Slightly warm,A little strong,A little strong,Just nice,A little strong,A little weak,A little fresh,Slightly pleasant,Satisfied,Satisfied,Satisfied,Not at all,Not at all,A little,A little,Not at all,Not at all,Moderate,A little,Not at all
-2023/03/03 3:45:44 pm GMT+5:30,15,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,A little,A little,Not at all,Not at all,Not at all,A little,A little,Not at all,A little
-2023/03/03 3:46:19 pm GMT+5:30,4,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Stale,Neutral,Very dissatisfied,Very dissatisfied,Very dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:46:35 pm GMT+5:30,10,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:46:43 pm GMT+5:30,14,Just nice,Just nice,Slightly warm,Just nice,Slightly warm,Just nice,A little weak,A little weak,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Moderate,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:46:50 pm GMT+5:30,9,Just nice,Just nice,Just nice,Just nice,Slightly cool,Just nice,Just nice,Just nice,A little strong,A little strong,A little fresh,Neutral,Neutral,Somewhat satisfied,Somewhat satisfied,Not at all,A little,Not at all,Moderate,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:46:50 pm GMT+5:30,11,Cool,Cool,Cool,Cool,Slightly cool,Strong,Strong,Strong,Strong,A little strong,Fresh,Neutral,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,Not at all,A little,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:47:00 pm GMT+5:30,22,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:47:01 pm GMT+5:30,17,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Slightly cool,A little strong,A little strong,A little strong,Strong,A little strong,Just nice,Neutral,Satisfied,Satisfied,Somewhat satisfied,A little,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:47:01 pm GMT+5:30,1,Just nice,Just nice,Just nice,Slightly cool,Cool,Just nice,Just nice,Just nice,A little strong,A little strong,Just nice,Slightly pleasant,Neutral,Somewhat satisfied,Neutral,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all,A little,A little
-2023/03/03 3:47:07 pm GMT+5:30,6,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little strong,Just nice,Just nice,Just nice,Just nice,Neutral,Satisfied,Satisfied,Satisfied,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:47:19 pm GMT+5:30,21,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,Just nice,A little weak,A little stale,Neutral,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:47:30 pm GMT+5:30,12,Just nice,Slightly warm,Slightly warm,Slightly warm,Warm,Just nice,A little weak,A little weak,A little weak,Too weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Moderate,Not at all,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 3:47:58 pm GMT+5:30,2,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little fresh,Neutral,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:47:59 pm GMT+5:30,8,Just nice,Slightly cool,Slightly cool,Just nice,Just nice,Just nice,Just nice,A little strong,Just nice,Just nice,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:48:06 pm GMT+5:30,23,Just nice,Just nice,Just nice,Just nice,Slightly warm,Just nice,Just nice,A little weak,Just nice,A little weak,Just nice,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,Moderate,Moderate,Intense,Moderate,Moderate,Not at all,Not at all,Not at all
-2023/03/03 3:48:39 pm GMT+5:30,20,Just nice,Slightly cool,Just nice,Slightly cool,Just nice,Just nice,A little strong,Just nice,A little strong,Just nice,A little stale,Slightly unpleasant,Somewhat satisfied,Somewhat satisfied,Somewhat Dissatisfied,A little,A little,A little,A little,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:48:39 pm GMT+5:30,19,Just nice,Just nice,Just nice,Just nice,Just nice,A little strong,A little strong,A little strong,A little strong,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:49:02 pm GMT+5:30,18,Just nice,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,A little strong,A little weak,Just nice,Neutral,Satisfied,Satisfied,Satisfied,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:49:07 pm GMT+5:30,5,Just nice,Just nice,Just nice,Just nice,Just nice,A little strong,A little strong,A little strong,A little strong,Just nice,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Neutral,Not at all,Not at all,A little,A little,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 3:49:25 pm GMT+5:30,16,Cool,Slightly cool,Just nice,Slightly cool,Slightly cool,A little strong,A little strong,Just nice,A little strong,A little strong,A little stale,Slightly unpleasant,Neutral,Neutral,Somewhat satisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 3:50:08 pm GMT+5:30,24,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Just nice,A little strong,A little strong,Just nice,A little strong,Just nice,A little fresh,Neutral,Satisfied,Very satisfied,Satisfied,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:00:32 pm GMT+5:30,10,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:00:51 pm GMT+5:30,11,Cool,Cool,Cool,Cool,Cool,Strong,Strong,Strong,Strong,Strong,Fresh,Slightly pleasant,Satisfied,Satisfied,Satisfied,Not at all,A little,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 4:00:56 pm GMT+5:30,14,Just nice,Just nice,Just nice,Just nice,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:00 pm GMT+5:30,4,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Stale,Neutral,Dissatisfied,Neutral,Dissatisfied,Not at all,A little,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:02 pm GMT+5:30,2,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little fresh,Neutral,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:05 pm GMT+5:30,15,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,A little,A little
-2023/03/03 4:01:08 pm GMT+5:30,23,Just nice,Just nice,Just nice,Just nice,Slightly warm,Just nice,Just nice,A little weak,Just nice,Too weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,A little,Moderate,Intense,Moderate,Moderate,Not at all,Not at all,Not at all
-2023/03/03 4:01:14 pm GMT+5:30,8,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Slightly cool,A little strong,Just nice,A little strong,A little strong,Just nice,Just nice,Neutral,Very satisfied,Very satisfied,Very satisfied,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:19 pm GMT+5:30,6,Just nice,Slightly warm,Just nice,Just nice,Just nice,Just nice,A little strong,Just nice,Just nice,Just nice,A little stale,Slightly unpleasant,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,Moderate,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:20 pm GMT+5:30,21,Just nice,Just nice,Slightly warm,Just nice,Just nice,Just nice,A little weak,A little weak,Just nice,A little weak,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:21 pm GMT+5:30,17,Slightly cool,Just nice,Slightly cool,Slightly cool,Slightly cool,A little strong,Just nice,A little strong,A little strong,Just nice,Just nice,Neutral,Satisfied,Satisfied,Somewhat satisfied,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:24 pm GMT+5:30,19,Just nice,Just nice,Just nice,Just nice,Just nice,A little strong,A little strong,A little strong,A little strong,Just nice,Just nice,Neutral,Neutral,Somewhat satisfied,Neutral,A little,A little,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:25 pm GMT+5:30,13,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little stale,Neutral,Neutral,Neutral,Somewhat Dissatisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,A little,A little
-2023/03/03 4:01:31 pm GMT+5:30,18,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Just nice,A little strong,Just nice,Just nice,A little weak,Just nice,Neutral,Satisfied,Somewhat satisfied,Somewhat satisfied,Not at all,A little,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:32 pm GMT+5:30,12,Just nice,Just nice,Just nice,Slightly warm,Warm,Just nice,Just nice,Just nice,A little weak,Too weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,A little,Not at all,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 4:01:38 pm GMT+5:30,20,Slightly cool,Slightly cool,Just nice,Slightly cool,Just nice,A little strong,A little strong,Just nice,A little strong,Just nice,A little stale,Slightly unpleasant,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,A little,Moderate,A little,Moderate,A little,A little,A little,Not at all,Not at all
-2023/03/03 4:01:38 pm GMT+5:30,1,Slightly cool,Just nice,Slightly cool,Slightly cool,Cool,Just nice,Just nice,Just nice,A little strong,A little strong,Just nice,Neutral,Neutral,Somewhat satisfied,Neutral,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little,Not at all
-2023/03/03 4:01:51 pm GMT+5:30,22,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little stale,Neutral,Somewhat satisfied,Neutral,Neutral,Not at all,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:01:51 pm GMT+5:30,3,Slightly cool,Slightly cool,Just nice,Slightly cool,Slightly warm,A little strong,A little strong,Just nice,A little strong,Just nice,A little fresh,Slightly pleasant,Satisfied,Satisfied,Satisfied,Not at all,Moderate,A little,A little,A little,Moderate,A little,Moderate,Not at all
-2023/03/03 4:02:03 pm GMT+5:30,24,Slightly cool,Slightly warm,Slightly cool,Cool,Cool,A little strong,A little strong,Just nice,A little strong,Just nice,A little fresh,Slightly pleasant,Satisfied,Very satisfied,Somewhat satisfied,Moderate,A little,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:02:22 pm GMT+5:30,5,Just nice,Slightly warm,Just nice,Just nice,Just nice,A little strong,A little strong,Just nice,Just nice,Just nice,Just nice,Neutral,Satisfied,Satisfied,Somewhat satisfied,Moderate,Moderate,A little,Moderate,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 4:02:56 pm GMT+5:30,16,Cool,Cool,Slightly cool,Slightly cool,Slightly cool,A little strong,A little strong,A little strong,Strong,A little strong,A little stale,Slightly unpleasant,Neutral,Somewhat satisfied,Somewhat satisfied,Not at all,Moderate,Not at all,Moderate,Not at all,A little,A little,Not at all,Not at all
-2023/03/03 4:04:19 pm GMT+5:30,7,Cool,Cool,Cool,Cool,Cool,Strong,Strong,Strong,Strong,A little strong,Just nice,Neutral,Very satisfied,Very satisfied,Very satisfied,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little
-2023/03/03 4:26:15 pm GMT+5:30,10,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:26:19 pm GMT+5:30,9,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Fresh,Slightly pleasant,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Moderate,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 4:26:25 pm GMT+5:30,8,Cool,Cool,Cool,Cool,Cool,A little strong,A little strong,A little strong,A little strong,A little strong,A little fresh,Slightly pleasant,Very satisfied,Satisfied,Satisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:26:40 pm GMT+5:30,15,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Just nice,A little strong,A little strong,A little strong,A little strong,A little strong,A little fresh,Neutral,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,Moderate,Not at all,Not at all,A little,A little,A little
-2023/03/03 4:26:48 pm GMT+5:30,19,Just nice,Just nice,Just nice,Just nice,Just nice,A little strong,A little strong,A little strong,A little strong,A little strong,Just nice,Neutral,Neutral,Neutral,Neutral,A little,A little,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:26:49 pm GMT+5:30,14,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:27:01 pm GMT+5:30,11,Cool,Cool,Cool,Cool,Cool,Strong,Strong,Strong,Strong,A little strong,Fresh,Slightly pleasant,Satisfied,Satisfied,Satisfied,Not at all,A little,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 4:27:03 pm GMT+5:30,21,Just nice,Just nice,Just nice,Slightly cool,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,Just nice,Neutral,Somewhat satisfied,Neutral,Neutral,Not at all,Not at all,Not at all,Intense,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:27:10 pm GMT+5:30,12,Just nice,Slightly warm,Just nice,Slightly warm,Warm,Just nice,Just nice,Just nice,A little weak,Too weak,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,A little,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:27:16 pm GMT+5:30,6,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little stale,Slightly unpleasant,Neutral,Neutral,Neutral,A little,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:27:19 pm GMT+5:30,20,Slightly cool,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,A little,A little,A little,Intense,A little,A little,A little,Not at all,Not at all
-2023/03/03 4:27:19 pm GMT+5:30,1,Just nice,Just nice,Just nice,Just nice,Slightly cool,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Somewhat satisfied,Neutral,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little,Not at all
-2023/03/03 4:27:24 pm GMT+5:30,22,Just nice,Just nice,Slightly warm,Just nice,Just nice,Just nice,Just nice,A little weak,Just nice,Just nice,Just nice,Slightly unpleasant,Somewhat satisfied,Neutral,Neutral,A little,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:27:34 pm GMT+5:30,18,Cool,Cool,Cool,Cool,Cool,A little strong,A little strong,A little strong,A little strong,Just nice,A little fresh,Slightly pleasant,Very satisfied,Satisfied,Very satisfied,Not at all,A little,Not at all,Intense,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:27:42 pm GMT+5:30,7,Cool,Slightly warm,Slightly cool,Slightly cool,Slightly cool,Strong,Strong,Far too strong,A little strong,Far too strong,Just nice,Neutral,Very dissatisfied,Very satisfied,Very satisfied,Moderate,Moderate,A little,A little,A little,A little,A little,A little,A little
-2023/03/03 4:27:50 pm GMT+5:30,5,Just nice,Slightly warm,Just nice,Just nice,Just nice,A little strong,Just nice,Just nice,Just nice,Just nice,Just nice,Slightly unpleasant,Somewhat Dissatisfied,Somewhat satisfied,Neutral,Moderate,Moderate,Not at all,A little,Moderate,Moderate,Not at all,Not at all,Not at all
-2023/03/03 4:27:52 pm GMT+5:30,2,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Just nice,Just nice,Just nice,Just nice,Just nice,Fresh,Neutral,Very dissatisfied,Very dissatisfied,Very dissatisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:27:54 pm GMT+5:30,17,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Slightly cool,Just nice,A little strong,A little strong,Just nice,Just nice,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Neutral,A little,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:28:03 pm GMT+5:30,4,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Stale,Neutral,Somewhat Dissatisfied,Neutral,Dissatisfied,Not at all,A little,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:28:08 pm GMT+5:30,23,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,Moderate,Moderate,Intense,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 4:28:23 pm GMT+5:30,16,Cool,Slightly cool,Slightly cool,Slightly cool,Slightly cool,A little strong,A little strong,A little strong,A little strong,A little strong,Stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat satisfied,Somewhat Dissatisfied,Not at all,A little,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,A little
-2023/03/03 4:28:34 pm GMT+5:30,24,Slightly cool,Slightly cool,Just nice,Slightly cool,Slightly warm,Just nice,A little strong,A little strong,Just nice,A little weak,Fresh,Neutral,Somewhat satisfied,Satisfied,Somewhat satisfied,A little,Moderate,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:30:55 pm GMT+5:30,3,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Slightly pleasant,Somewhat satisfied,Somewhat satisfied,Somewhat satisfied,Not at all,A little,A little,A little,Not at all,A little,Moderate,A little,Not at all
-2023/03/03 4:34:20 pm GMT+5:30,13,Just nice,Slightly warm,Slightly warm,Just nice,Just nice,A little weak,Just nice,A little weak,Just nice,Just nice,A little stale,Neutral,Somewhat Dissatisfied,Dissatisfied,Dissatisfied,A little,Not at all,Not at all,Not at all,Not at all,A little,A little,A little,A little
-2023/03/03 4:35:57 pm GMT+5:30,10,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:36:09 pm GMT+5:30,19,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,A little weak,A little weak,A little weak,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,A little,A little,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:36:09 pm GMT+5:30,25,Just nice,Just nice,Just nice,Just nice,Just nice,None,None,None,None,None,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:36:17 pm GMT+5:30,4,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,None,None,None,None,None,Stale,Neutral,Dissatisfied,Very dissatisfied,Dissatisfied,Not at all,Moderate,Not at all,Intense,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:36:17 pm GMT+5:30,8,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,A little,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:36:20 pm GMT+5:30,23,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,Just nice,Slightly pleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,Moderate,Moderate,Intense,Moderate,Intense,Not at all,Not at all,Not at all
-2023/03/03 4:36:21 pm GMT+5:30,22,Slightly warm,Just nice,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Neutral,Somewhat satisfied,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:36:22 pm GMT+5:30,14,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Too weak,Too weak,Too weak,Too weak,Too weak,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,A little,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 4:36:27 pm GMT+5:30,18,Just nice,Just nice,Just nice,Just nice,Just nice,None,None,None,None,None,A little fresh,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Intense,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:36:34 pm GMT+5:30,12,Slightly warm,Warm,Slightly warm,Warm,Warm,A little weak,Too weak,A little weak,Too weak,Too weak,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:36:36 pm GMT+5:30,13,Slightly warm,Just nice,Slightly warm,Just nice,Slightly warm,Too weak,A little weak,Too weak,A little weak,Too weak,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Dissatisfied,Dissatisfied,A little,Not at all,Not at all,A little,A little,A little,A little,Not at all,A little
-2023/03/03 4:36:38 pm GMT+5:30,11,Slightly warm,Just nice,Just nice,Slightly warm,Slightly warm,Too weak,Too weak,Too weak,Too weak,None,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 4:36:39 pm GMT+5:30,9,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 4:36:50 pm GMT+5:30,20,Warm,Slightly warm,Warm,Slightly warm,Warm,Too weak,Too weak,None,Too weak,None,Stale,Slightly unpleasant,Very dissatisfied,Dissatisfied,Somewhat Dissatisfied,Moderate,A little,A little,A little,A little,Not at all,A little,Not at all,Not at all
-2023/03/03 4:37:02 pm GMT+5:30,2,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:37:04 pm GMT+5:30,16,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Somewhat satisfied,Somewhat satisfied,Neutral,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little
-2023/03/03 4:37:17 pm GMT+5:30,5,Warm,Warm,Warm,Warm,Warm,None,None,None,None,None,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,Intense,Moderate,Not at all,Moderate,A little,Moderate,A little,Not at all,A little
-2023/03/03 4:37:18 pm GMT+5:30,17,Just nice,Just nice,Just nice,Just nice,Slightly warm,A little strong,Strong,A little strong,A little strong,A little strong,A little fresh,Slightly pleasant,Neutral,Satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:37:21 pm GMT+5:30,6,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Too weak,Too weak,Too weak,Too weak,Too weak,Just nice,Neutral,Somewhat satisfied,Neutral,Neutral,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:37:29 pm GMT+5:30,1,Just nice,Just nice,Just nice,Just nice,Just nice,None,None,None,Too weak,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:37:30 pm GMT+5:30,7,Slightly warm,Warm,Slightly warm,Warm,Slightly warm,Too weak,Too weak,Too weak,None,None,Just nice,Neutral,Very dissatisfied,Very dissatisfied,Satisfied,Intense,Moderate,Moderate,Moderate,Moderate,Moderate,A little,Not at all,Not at all
-2023/03/03 4:38:59 pm GMT+5:30,24,Slightly warm,Slightly warm,Warm,Slightly warm,Warm,A little weak,A little weak,Too weak,A little weak,Too weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:45:13 pm GMT+5:30,11,Slightly warm,Just nice,Slightly warm,Slightly warm,Warm,Too weak,Too weak,Too weak,Too weak,None,Just nice,Slightly pleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 4:45:37 pm GMT+5:30,10,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:45:58 pm GMT+5:30,13,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Somewhat Dissatisfied,Dissatisfied,Dissatisfied,A little,Not at all,Not at all,A little,A little,A little,A little,Not at all,Not at all
-2023/03/03 4:46:03 pm GMT+5:30,23,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,A little weak,A little weak,A little weak,Too weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,Moderate,Moderate,Intense,Intense,Moderate,Moderate,Not at all,Not at all,Not at all
-2023/03/03 4:46:03 pm GMT+5:30,21,Just nice,Just nice,Just nice,Just nice,Slightly warm,None,None,None,None,None,Just nice,Neutral,Somewhat Dissatisfied,Very dissatisfied,Neutral,Not at all,Not at all,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:46:07 pm GMT+5:30,15,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,A little,Not at all,A little,A little,A little,A little
-2023/03/03 4:46:15 pm GMT+5:30,14,Slightly warm,Just nice,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,Just nice,A little weak,A little weak,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:46:17 pm GMT+5:30,9,Cool,Cool,Cool,Cool,Cool,Far too strong,Far too strong,Far too strong,Far too strong,Far too strong,Very fresh,Pleasant,Very dissatisfied,Very dissatisfied,Very dissatisfied,Not at all,Intense,Intense,Intense,Intense,Intense,Intense,Intense,Intense
-2023/03/03 4:46:20 pm GMT+5:30,8,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Slightly unpleasant,Neutral,Somewhat satisfied,Somewhat satisfied,A little,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:46:30 pm GMT+5:30,22,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:46:30 pm GMT+5:30,19,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Too weak,Too weak,Too weak,Too weak,Too weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,A little,A little,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:46:38 pm GMT+5:30,2,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:46:38 pm GMT+5:30,12,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,Stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:46:43 pm GMT+5:30,20,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,Stale,Slightly unpleasant,Very dissatisfied,Very dissatisfied,Dissatisfied,Not at all,A little,A little,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 4:46:48 pm GMT+5:30,6,Warm,Warm,Slightly warm,Slightly warm,Slightly warm,A little weak,Too weak,Too weak,Too weak,Too weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,A little,A little,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 4:46:48 pm GMT+5:30,3,Slightly warm,Slightly warm,Slightly warm,Warm,Warm,A little weak,A little weak,Too weak,A little weak,Too weak,Just nice,Slightly pleasant,Somewhat Dissatisfied,Dissatisfied,Neutral,A little,Moderate,A little,A little,Not at all,Moderate,Moderate,A little,Not at all
-2023/03/03 4:47:03 pm GMT+5:30,4,Warm,Warm,Warm,Slightly warm,Slightly warm,None,None,None,None,None,Stale,Neutral,Very dissatisfied,Very dissatisfied,Very dissatisfied,Not at all,Moderate,Not at all,Intense,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:47:07 pm GMT+5:30,5,Hot,Warm,Warm,Warm,Slightly warm,None,None,None,None,None,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Neutral,Moderate,Intense,Not at all,Moderate,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 4:47:24 pm GMT+5:30,1,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,None,None,None,None,Too weak,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Moderate,A little,A little,Not at all,Not at all,A little,A little,A little
-2023/03/03 4:47:38 pm GMT+5:30,17,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little strong,Just nice,A little strong,Just nice,A little fresh,Neutral,Neutral,Somewhat satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:47:46 pm GMT+5:30,16,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Just nice,A little weak,Just nice,A little weak,Just nice,A little weak,Just nice,Neutral,Somewhat satisfied,Somewhat Dissatisfied,Neutral,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:47:48 pm GMT+5:30,7,Warm,Hot,Hot,Warm,Warm,None,None,None,None,None,Just nice,Neutral,Very dissatisfied,Very dissatisfied,Satisfied,Intense,Moderate,Moderate,Moderate,Intense,Moderate,A little,Not at all,Not at all
-2023/03/03 4:47:51 pm GMT+5:30,24,Slightly warm,Warm,Warm,Warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little fresh,Neutral,Somewhat Dissatisfied,Neutral,Neutral,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 4:48:20 pm GMT+5:30,18,Just nice,Just nice,Just nice,Just nice,Just nice,None,None,None,None,None,A little fresh,Neutral,Somewhat satisfied,Neutral,Somewhat satisfied,Not at all,A little,Not at all,Intense,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:00:05 pm GMT+5:30,18,Just nice,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Too weak,Too weak,Too weak,None,None,Just nice,Slightly pleasant,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:01:00 pm GMT+5:30,1,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,None,None,None,Too weak,Too weak,A little stale,Neutral,Somewhat Dissatisfied,Dissatisfied,Neutral,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,A little
-2023/03/03 5:01:08 pm GMT+5:30,21,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,None,None,None,None,None,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all
-2023/03/03 5:01:11 pm GMT+5:30,12,Warm,Warm,Warm,Warm,Hot,Too weak,Too weak,Too weak,Too weak,Too weak,Stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,Moderate,Moderate,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:01:17 pm GMT+5:30,9,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 5:01:34 pm GMT+5:30,6,Hot,Hot,Hot,Warm,Warm,None,None,None,None,None,Just nice,Neutral,Satisfied,Satisfied,Satisfied,Moderate,Moderate,Not at all,Not at all,Moderate,Moderate,Not at all,Not at all,Not at all
-2023/03/03 5:01:50 pm GMT+5:30,5,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,None,None,None,None,None,Just nice,Slightly unpleasant,Dissatisfied,Dissatisfied,Neutral,Moderate,Intense,Not at all,Moderate,Not at all,A little,A little,Not at all,A little
-2023/03/03 5:01:51 pm GMT+5:30,10,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:02:04 pm GMT+5:30,19,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,A little stale,Neutral,Dissatisfied,Dissatisfied,Somewhat Dissatisfied,A little,A little,A little,A little,A little,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:02:16 pm GMT+5:30,17,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Somewhat satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:02:16 pm GMT+5:30,24,Slightly warm,Just nice,Slightly warm,Just nice,Slightly warm,A little weak,A little weak,Too weak,Too weak,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:02:21 pm GMT+5:30,11,Warm,Slightly warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,None,A little stale,Neutral,Neutral,Neutral,Neutral,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 5:02:23 pm GMT+5:30,23,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,A little stale,Slightly unpleasant,Dissatisfied,Dissatisfied,Dissatisfied,A little,Moderate,Moderate,Intense,Moderate,Moderate,Not at all,Not at all,Not at all
-2023/03/03 5:02:29 pm GMT+5:30,8,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Neutral,Somewhat satisfied,Somewhat satisfied,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:02:31 pm GMT+5:30,22,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Too weak,A little weak,Too weak,A little weak,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Neutral,Neutral,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:02:40 pm GMT+5:30,20,Hot,Hot,Hot,Hot,Hot,Too weak,Too weak,Too weak,Too weak,Too weak,Stale,Unpleasant,Very dissatisfied,Very dissatisfied,Very dissatisfied,A little,A little,Not at all,A little,A little,Not at all,A little,Not at all,Not at all
-2023/03/03 5:02:43 pm GMT+5:30,4,Warm,Warm,Warm,Warm,Warm,None,None,None,None,None,Stale,Neutral,Dissatisfied,Very dissatisfied,Somewhat Dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:02:43 pm GMT+5:30,13,Slightly warm,Slightly warm,Slightly warm,Just nice,Slightly warm,A little weak,Just nice,A little weak,Just nice,A little weak,A little stale,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,A little,Not at all,Not at all,A little,A little,Not at all,A little,Not at all,A little
-2023/03/03 5:03:13 pm GMT+5:30,14,Just nice,Slightly warm,Slightly warm,Just nice,Slightly warm,A little weak,Too weak,A little weak,A little weak,A little weak,Just nice,Slightly unpleasant,Neutral,Neutral,Somewhat Dissatisfied,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:03:42 pm GMT+5:30,16,Slightly warm,Slightly warm,Slightly warm,Just nice,Slightly warm,Just nice,Just nice,A little weak,Just nice,A little weak,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat satisfied,Not at all,Moderate,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little
-2023/03/03 5:03:50 pm GMT+5:30,7,Warm,Warm,Slightly warm,Warm,Slightly warm,None,None,None,None,None,Just nice,Neutral,Very dissatisfied,Very dissatisfied,Satisfied,Intense,Moderate,A little,Moderate,A little,A little,A little,Not at all,Not at all
-2023/03/03 5:05:30 pm GMT+5:30,2,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Neutral,Neutral,Neutral,A little,A little,Not at all,A little,Not at all,A little,A little,Not at all,Not at all
-2023/03/03 5:05:37 pm GMT+5:30,3,Warm,Hot,Warm,Warm,Hot,A little weak,A little weak,Too weak,Too weak,Too weak,A little stale,Slightly unpleasant,Very dissatisfied,Dissatisfied,Neutral,A little,Intense,A little,Moderate,A little,Moderate,A little,A little,Not at all
-2023/03/03 5:08:32 pm GMT+5:30,15,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Moderate,Not at all,A little,A little,A little,A little
-2023/03/03 5:20:43 pm GMT+5:30,10,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:20:53 pm GMT+5:30,9,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate
-2023/03/03 5:20:55 pm GMT+5:30,17,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Just nice,A little strong,A little strong,Just nice,Just nice,Just nice,Slightly pleasant,Somewhat Dissatisfied,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:20:55 pm GMT+5:30,21,Just nice,Just nice,Just nice,Just nice,Slightly warm,None,None,None,None,None,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:20:57 pm GMT+5:30,13,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Dissatisfied,Dissatisfied,Dissatisfied,A little,A little,A little,A little,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 5:21:07 pm GMT+5:30,4,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,None,None,None,None,None,Stale,Neutral,Dissatisfied,Dissatisfied,Dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:21:11 pm GMT+5:30,22,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,A little weak,Just nice,Just nice,Just nice,Just nice,Slightly pleasant,Somewhat satisfied,Neutral,Neutral,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:21:16 pm GMT+5:30,14,Slightly warm,Just nice,Slightly warm,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:21:20 pm GMT+5:30,20,Hot,Hot,Hot,Hot,Hot,None,None,None,None,None,Very stale,Slightly unpleasant,Very dissatisfied,Very dissatisfied,Very dissatisfied,Not at all,A little,Not at all,Moderate,A little,A little,Not at all,Not at all,Not at all
-2023/03/03 5:21:22 pm GMT+5:30,2,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:21:34 pm GMT+5:30,19,Warm,Warm,Warm,Warm,Warm,Too weak,Too weak,Too weak,Too weak,Too weak,Just nice,Neutral,Very dissatisfied,Dissatisfied,Somewhat Dissatisfied,A little,A little,A little,A little,A little,Not at all,A little,Not at all,Not at all
-2023/03/03 5:21:36 pm GMT+5:30,8,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,A little weak,A little weak,A little weak,A little weak,A little stale,Neutral,Neutral,Neutral,Neutral,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:21:41 pm GMT+5:30,12,Hot,Hot,Hot,Hot,Hot,Too weak,Too weak,Too weak,Too weak,Too weak,Stale,Unpleasant,Very dissatisfied,Very dissatisfied,Dissatisfied,Intense,Moderate,Not at all,Moderate,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:21:44 pm GMT+5:30,18,Slightly warm,Slightly cool,Slightly warm,Slightly warm,Just nice,Too weak,Too weak,Too weak,Too weak,None,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:21:49 pm GMT+5:30,3,Just nice,Just nice,Just nice,Slightly warm,Slightly warm,A little weak,A little weak,A little weak,A little weak,A little weak,Just nice,Neutral,Neutral,Neutral,Satisfied,Moderate,Intense,A little,A little,Not at all,A little,Moderate,A little,Not at all
-2023/03/03 5:21:51 pm GMT+5:30,5,Warm,Slightly warm,Slightly warm,Slightly warm,Warm,None,None,None,None,None,A little stale,Slightly unpleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Neutral,Moderate,Intense,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all
-2023/03/03 5:21:56 pm GMT+5:30,6,Hot,Warm,Warm,Warm,Hot,None,None,None,None,None,Just nice,Neutral,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Moderate,A little,Not at all,Not at all,Moderate,Moderate,Not at all,Not at all,Not at all
-2023/03/03 5:21:59 pm GMT+5:30,1,Just nice,Just nice,Just nice,Just nice,Just nice,Too weak,Too weak,Too weak,Too weak,A little weak,Just nice,Neutral,Neutral,Neutral,Somewhat satisfied,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:22:41 pm GMT+5:30,7,Warm,Hot,Warm,Slightly warm,Just nice,Too weak,None,None,None,None,Just nice,Neutral,Dissatisfied,Dissatisfied,Very satisfied,Intense,Moderate,Moderate,Intense,Intense,Intense,A little,Not at all,Not at all
-2023/03/03 5:22:51 pm GMT+5:30,11,Warm,Warm,Warm,Warm,Hot,Too weak,Too weak,Too weak,Too weak,None,Just nice,Slightly pleasant,Somewhat Dissatisfied,Somewhat Dissatisfied,Somewhat Dissatisfied,Not at all,Moderate,Not at all,Moderate,Not at all,Not at all,A little,Not at all,Not at all
-2023/03/03 5:22:55 pm GMT+5:30,16,Just nice,Slightly cool,Just nice,Just nice,Just nice,Just nice,Just nice,A little weak,Just nice,A little weak,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little
-2023/03/03 5:22:59 pm GMT+5:30,24,Just nice,Slightly cool,Just nice,Slightly cool,Just nice,A little weak,Just nice,A little weak,Just nice,A little weak,Just nice,Slightly pleasant,Somewhat satisfied,Neutral,Neutral,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all
-2023/03/03 5:23:24 pm GMT+5:30,15,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Slightly warm,Just nice,Just nice,Just nice,Just nice,Just nice,Just nice,Neutral,Neutral,Neutral,Neutral,Not at all,Not at all,Not at all,A little,A little,A little,A little,A little,A little
-2023/03/03 5:24:24 pm GMT+5:30,23,Just nice,Just nice,Just nice,Just nice,Slightly warm,Just nice,Just nice,Just nice,Just nice,A little weak,Just nice,Neutral,Dissatisfied,Dissatisfied,Dissatisfied,Moderate,Moderate,Moderate,Intense,Moderate,Moderate,Not at all,Not at all,Not at all
+3/3/2023 4:35,1,4,5,4,4,3,1,1,1,1,4,4,3,3,3,3,1,1,3,1,1,1,1,2,2
+3/3/2023 4:47,1,4,5,5,3,3,1,1,1,1,4,4,3,3,3,3,1,1,2,1,1,1,2,2,2
+3/3/2023 3:01,1,4,5,4,5,3,1,1,1,1,3,4,3,3,3,3,1,1,2,1,1,1,1,2,3
+3/3/2023 3:30,1,4,4,4,4,3,1,1,1,1,2,3,3,3,3,3,1,1,2,1,1,1,1,2,3
+3/3/2023 3:39,1,4,5,4,3,3,4,4,4,5,5,4,4,3,5,3,1,1,2,2,1,1,1,1,1
+3/3/2023 3:47,1,4,4,4,3,2,4,4,4,5,5,4,4,3,5,3,1,1,2,2,1,1,1,2,2
+3/3/2023 4:01,1,3,4,3,3,2,4,4,4,5,5,4,3,3,5,3,1,1,2,1,1,1,1,2,1
+3/3/2023 4:27,1,4,4,4,4,3,4,4,4,4,4,4,3,3,5,3,1,1,2,1,1,1,1,2,1
+3/3/2023 4:37,1,4,4,4,4,4,1,1,1,2,3,4,3,3,3,3,1,1,2,1,1,1,1,1,1
+3/3/2023 4:47,1,5,5,5,4,4,1,1,1,1,2,3,3,3,3,3,1,3,2,2,1,1,2,2,2
+3/3/2023 5:01,1,5,5,5,4,4,1,1,1,2,2,3,3,3,2,3,1,2,2,1,1,1,1,1,2
+3/3/2023 5:21,1,4,4,4,4,4,2,2,2,2,3,4,3,3,3,5,1,1,2,1,1,1,1,1,1
+3/3/2023 4:36,2,4,5,4,4,5,2,1,1,1,1,3,3,3,3,3,1,1,1,2,1,1,1,1,1
+3/3/2023 4:46,2,4,5,5,4,5,4,3,3,4,3,3,3,3,3,3,1,1,1,2,1,1,1,1,1
+3/3/2023 3:01,2,5,5,5,5,5,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 3:20,2,6,5,5,5,5,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 3:15,2,6,6,6,6,6,3,3,3,3,3,2,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 3:47,2,4,4,4,4,4,4,4,4,4,4,5,3,5,5,5,1,1,1,1,1,1,1,1,1
+3/3/2023 4:01,2,4,4,4,4,4,4,4,4,4,4,5,3,5,5,5,1,1,1,1,1,1,1,1,1
+3/3/2023 4:27,2,3,3,3,3,3,4,4,4,4,4,6,3,1,1,1,1,1,1,1,1,1,1,1,1
+3/3/2023 4:37,2,5,5,5,5,5,3,3,3,3,3,3,2,3,3,3,1,2,1,2,1,1,1,1,1
+3/3/2023 4:46,2,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,2,1,1,1,1,1,1,1
+3/3/2023 5:05,2,5,5,5,5,5,3,3,3,3,3,3,3,3,3,3,2,2,1,2,1,2,2,1,1
+3/3/2023 5:21,2,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,2,1,1,1,1,1
+3/3/2023 4:38,3,5,7,5,6,5,3,4,3,3,2,4,3,3,2,3,1,1,2,2,1,2,2,3,2
+3/3/2023 4:47,3,5,6,5,5,5,3,3,2,3,2,3,2,5,3,3,2,2,2,2,1,2,2,3,1
+3/3/2023 3:01,3,4,5,4,6,5,3,2,2,4,3,3,2,2,3,2,1,2,3,2,1,2,2,2,1
+3/3/2023 3:15,3,4,6,5,6,5,1,2,2,2,2,3,2,1,1,2,1,2,2,2,1,2,2,2,1
+3/3/2023 3:15,3,3,4,4,4,5,5,5,4,5,3,5,4,6,6,6,1,1,2,2,1,1,3,2,1
+3/3/2023 4:01,3,3,3,4,3,5,5,5,4,5,4,5,4,6,6,6,1,3,2,2,2,3,2,3,1
+3/3/2023 4:30,3,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,1,2,2,2,1,2,3,2,1
+3/3/2023 4:46,3,5,5,5,6,6,3,3,2,3,2,4,4,3,2,3,2,3,2,2,1,3,3,2,1
+3/3/2023 5:05,3,6,7,6,6,7,3,3,2,2,2,3,2,1,2,3,2,4,2,3,2,3,2,2,1
+3/3/2023 5:21,3,4,4,4,5,5,3,3,3,3,3,4,3,3,3,6,3,4,2,2,1,2,3,2,1
+3/3/2023 4:36,4,4,5,5,4,4,1,1,1,1,1,2,3,3,2,2,1,3,1,3,1,1,2,1,1
+3/3/2023 4:47,4,6,6,6,6,5,1,1,1,1,1,2,3,2,2,2,1,2,1,3,2,1,2,1,1
+3/3/2023 3:01,4,6,6,6,6,5,1,1,1,1,1,2,3,1,1,1,1,3,1,3,2,1,2,1,1
+3/3/2023 3:15,4,6,6,6,6,5,1,1,1,1,1,2,3,1,1,1,2,3,1,3,2,1,1,1,1
+3/3/2023 3:41,4,4,5,5,5,4,4,4,4,4,4,2,3,1,1,1,1,3,1,3,1,1,1,1,1
+3/3/2023 3:46,4,4,4,4,4,4,4,4,4,4,4,2,3,1,1,1,1,3,1,3,1,1,1,1,1
+3/3/2023 4:01,4,4,4,4,4,4,4,4,4,4,4,2,3,2,3,2,1,2,1,3,1,1,1,1,1
+3/3/2023 4:28,4,4,4,4,4,4,4,4,4,4,4,2,3,3,3,2,1,2,1,3,1,1,1,1,1
+3/3/2023 4:36,4,5,5,5,5,5,1,1,1,1,1,2,3,2,1,2,1,3,1,4,1,1,1,1,1
+3/3/2023 4:47,4,6,6,6,5,5,1,1,1,1,1,2,3,1,1,1,1,3,1,4,1,1,1,1,1
+3/3/2023 5:16,4,6,6,6,6,6,1,1,1,1,1,2,3,2,1,3,1,3,1,3,1,1,1,1,1
+3/3/2023 5:21,4,5,5,5,5,5,1,1,1,1,1,2,3,2,2,2,1,3,1,3,1,1,1,1,1
+3/3/2023 4:39,5,5,5,5,5,4,1,1,1,1,1,3,3,3,3,3,2,3,1,1,2,2,1,1,2
+3/3/2023 4:49,5,5,5,6,6,5,1,1,1,1,1,4,3,3,3,3,2,2,1,1,2,2,1,1,1
+3/3/2023 3:16,5,6,5,6,5,5,3,3,3,3,3,3,2,2,2,3,2,3,1,1,2,2,1,1,1
+3/3/2023 3:16,5,5,5,5,5,5,1,1,1,1,1,3,2,3,3,3,2,2,1,1,2,2,1,1,1
+3/3/2023 3:49,5,4,4,4,4,4,5,5,5,5,4,4,3,5,5,3,1,1,2,2,2,2,1,1,1
+3/3/2023 4:16,5,4,5,4,4,4,5,5,4,4,4,4,3,6,6,5,3,3,2,3,2,2,1,1,1
+3/3/2023 4:27,5,4,5,4,4,4,5,4,4,4,4,4,2,3,5,3,3,3,1,2,3,3,1,1,1
+3/3/2023 4:37,5,6,6,6,6,6,1,1,1,1,1,3,2,2,2,3,4,3,1,3,2,3,2,1,2
+3/3/2023 4:47,5,7,6,6,6,5,1,1,1,1,1,3,2,2,2,3,3,4,1,3,2,2,1,1,1
+3/3/2023 5:01,5,5,5,5,5,5,1,1,1,1,1,4,2,2,2,3,3,4,1,3,1,2,2,1,2
+3/3/2023 5:21,5,6,5,5,5,6,1,1,1,1,1,3,2,3,3,3,3,4,1,2,1,2,1,1,1
+3/3/2023 4:37,6,5,5,5,5,6,1,1,1,1,1,5,3,3,5,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:48,6,6,6,6,5,5,1,1,1,1,1,4,3,5,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 3:16,6,7,7,7,7,7,1,1,1,1,1,3,3,2,3,3,2,2,1,1,1,1,1,1,1
+3/3/2023 3:16,6,7,7,7,7,7,1,1,1,1,1,3,3,2,3,2,2,1,1,1,1,1,1,1,1
+3/3/2023 3:47,6,4,4,4,4,4,4,5,4,4,4,4,3,6,6,6,2,1,1,1,1,1,1,1,1
+3/3/2023 4:01,6,4,5,4,4,4,4,5,4,4,4,3,2,5,5,5,3,2,1,1,1,1,1,1,1
+3/3/2023 4:27,6,4,4,4,4,4,4,4,4,4,4,3,2,3,3,3,2,1,1,2,2,1,1,1,1
+3/3/2023 4:37,6,5,5,5,5,5,2,2,2,2,2,4,3,5,3,3,2,2,1,1,1,1,1,1,1
+3/3/2023 4:46,6,6,6,5,5,5,3,2,2,2,2,4,3,3,3,3,2,2,1,1,2,2,1,1,1
+3/3/2023 5:01,6,7,7,7,6,6,1,1,1,1,1,4,3,6,6,6,3,3,1,1,3,3,1,1,1
+3/3/2023 5:21,6,7,6,6,6,7,1,1,1,1,1,4,3,3,3,3,3,2,1,1,3,3,1,1,1
+3/3/2023 4:36,7,5,6,6,4,6,4,3,4,4,4,4,3,3,3,6,2,2,3,1,3,3,2,3,3
+3/3/2023 4:48,7,2,5,5,5,4,1,3,4,4,4,4,3,5,6,6,3,1,2,1,2,2,1,2,2
+3/3/2023 3:01,7,6,5,5,5,5,1,1,1,1,1,3,3,2,3,3,2,2,3,1,2,2,2,2,2
+3/3/2023 3:31,7,1,2,2,2,2,1,1,1,1,1,4,3,1,7,7,2,1,2,2,2,2,2,2,2
+3/3/2023 3:39,7,2,2,2,2,1,6,6,6,6,5,4,3,6,6,6,1,1,1,1,2,2,2,1,1
+3/3/2023 4:16,7,2,2,2,2,2,6,6,6,6,5,4,3,7,7,7,1,2,1,1,1,1,1,1,2
+3/3/2023 4:27,7,2,5,3,3,3,6,6,7,5,7,4,3,1,7,7,3,3,2,2,2,2,2,2,2
+3/3/2023 4:37,7,5,6,5,6,5,2,2,2,1,1,4,3,1,1,6,4,3,3,3,3,3,2,1,1
+3/3/2023 4:47,7,6,7,7,6,6,1,1,1,1,1,4,3,1,1,6,4,3,3,3,4,3,2,1,1
+3/3/2023 5:15,7,6,6,5,6,5,1,1,1,1,1,4,3,1,1,6,4,3,2,3,2,2,2,1,1
+3/3/2023 5:16,7,6,7,6,5,4,2,1,1,1,1,4,3,2,2,7,4,3,3,4,4,4,2,1,1
+3/3/2023 4:35,8,5,5,5,4,4,2,2,2,2,2,3,3,3,2,3,1,2,1,2,1,1,1,1,1
+3/3/2023 4:48,8,5,5,5,5,5,3,3,2,3,2,3,2,2,2,2,2,2,1,3,2,1,1,1,1
+3/3/2023 3:16,8,6,6,6,5,6,2,2,2,2,2,2,2,1,2,2,4,3,1,4,2,1,1,1,1
+3/3/2023 3:31,8,6,6,6,6,6,2,2,2,2,2,1,2,1,1,2,4,4,1,4,3,1,1,1,1
+3/3/2023 3:40,8,4,4,4,4,4,4,4,4,4,4,4,3,3,5,5,2,2,1,3,2,1,1,1,1
+3/3/2023 3:47,8,4,3,3,4,4,4,4,5,4,4,4,3,5,5,5,2,2,1,2,1,1,1,1,1
+3/3/2023 4:01,8,3,3,3,3,3,5,4,5,5,4,4,3,7,7,7,1,2,1,2,1,1,1,1,1
+3/3/2023 4:26,8,2,2,2,2,2,5,5,5,5,5,5,4,7,6,6,1,1,1,2,1,1,1,1,1
+3/3/2023 4:36,8,4,4,4,4,4,3,3,3,3,3,3,2,3,3,3,2,1,1,2,1,1,1,1,1
+3/3/2023 4:46,8,5,5,5,5,5,3,3,3,3,3,3,2,3,5,5,2,1,2,2,1,1,1,1,1
+3/3/2023 5:16,8,5,5,5,5,5,3,3,3,3,3,3,3,3,5,5,1,1,1,2,1,1,1,1,1
+3/3/2023 5:21,8,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,1,2,1,1,1,1,1,1,1
+3/3/2023 4:35,9,3,4,4,3,3,4,3,3,3,4,4,4,6,6,6,1,1,1,1,1,1,1,1,1
+3/3/2023 4:48,9,3,4,4,3,3,4,4,4,4,4,4,3,3,3,3,2,1,1,2,1,1,1,1,1
+3/3/2023 3:16,9,2,4,4,4,2,4,4,4,4,4,3,2,6,5,3,2,3,1,3,1,1,2,1,1
+3/3/2023 3:35,9,4,4,4,4,4,4,4,4,5,5,4,2,3,3,3,2,3,1,4,1,1,2,1,1
+3/3/2023 3:39,9,4,4,4,4,4,4,4,5,4,4,4,4,3,3,3,1,1,1,4,1,1,3,1,1
+3/3/2023 3:46,9,4,4,4,4,3,4,4,4,5,5,5,3,3,5,5,1,2,1,3,1,1,2,1,1
+3/3/2023 4:26,9,4,4,4,4,4,4,4,4,4,4,6,4,3,3,3,1,2,1,3,1,1,2,1,1
+3/3/2023 4:36,9,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,2,1,1,2,1,1
+3/3/2023 4:46,9,2,2,2,2,2,7,7,7,7,7,7,5,1,1,1,1,4,4,4,4,4,4,4,4
+3/3/2023 5:01,9,4,4,4,4,4,4,4,4,4,4,3,2,3,3,3,1,1,1,2,1,1,2,1,1
+3/3/2023 5:20,9,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3
+3/3/2023 4:16,10,4,5,4,4,4,4,4,4,4,4,6,3,3,3,5,1,1,1,1,1,1,2,1,1
+3/3/2023 4:47,10,5,5,5,5,5,3,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,2,1,1
+3/3/2023 3:00,10,5,5,5,5,5,3,3,3,3,3,4,3,3,3,3,1,1,1,1,1,1,2,1,1
+3/3/2023 3:31,10,5,5,5,5,5,4,4,4,4,4,4,3,3,3,3,1,2,1,1,1,1,2,1,1
+3/3/2023 3:39,10,3,3,3,3,3,4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,2,1,1
+3/3/2023 3:46,10,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,2,1,1
+3/3/2023 4:00,10,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:26,10,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:35,10,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:45,10,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 5:01,10,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 5:20,10,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:36,11,5,4,5,5,6,2,2,1,2,1,3,3,2,2,2,1,3,3,3,1,1,2,1,1
+3/3/2023 4:48,11,5,3,4,4,5,2,2,1,2,1,3,3,2,2,3,1,3,1,3,1,1,1,1,1
+3/3/2023 3:01,11,3,2,3,3,4,3,3,3,3,3,3,3,2,2,2,1,3,1,3,1,1,1,1,1
+3/3/2023 3:15,11,6,5,6,5,5,6,7,6,6,6,3,3,3,3,3,1,2,1,2,1,1,2,1,1
+3/3/2023 3:41,11,2,2,2,2,3,6,6,6,6,4,3,3,3,3,3,1,1,2,1,1,1,2,1,1
+3/3/2023 3:46,11,2,2,2,2,3,6,6,6,6,5,6,3,5,5,5,1,2,1,2,1,1,2,1,1
+3/3/2023 4:00,11,2,2,2,2,2,6,6,6,6,6,6,4,6,6,6,1,2,1,2,1,1,2,1,1
+3/3/2023 4:27,11,2,2,2,2,2,6,6,6,6,5,6,4,6,6,6,1,2,1,2,1,1,2,1,1
+3/3/2023 4:36,11,5,4,4,5,5,2,2,2,2,1,4,3,3,3,3,1,3,1,3,1,1,2,1,1
+3/3/2023 4:45,11,5,4,5,5,6,2,2,2,2,1,4,4,3,3,3,1,3,1,3,1,1,2,1,1
+3/3/2023 5:16,11,6,5,6,6,6,2,2,2,2,1,3,3,3,3,3,1,3,1,3,1,1,2,1,1
+3/3/2023 5:16,11,6,6,6,6,7,2,2,2,2,1,4,4,3,3,3,1,3,1,3,1,1,2,1,1
+3/3/2023 4:38,12,4,5,4,5,5,3,2,3,2,2,4,3,3,3,3,1,1,1,1,1,1,2,1,1
+3/3/2023 4:48,12,5,5,5,5,6,2,2,3,3,2,3,3,3,2,3,2,1,1,1,1,1,2,1,1
+3/3/2023 3:01,12,5,6,5,6,7,3,2,3,3,2,3,2,2,2,2,2,2,1,1,1,1,2,1,1
+3/3/2023 3:16,12,6,7,6,7,7,3,2,2,2,2,2,2,1,1,1,3,2,1,3,2,1,2,1,1
+3/3/2023 3:40,12,4,5,4,5,6,4,4,4,3,2,4,3,3,5,3,2,2,1,2,1,1,2,1,1
+3/3/2023 3:47,12,4,5,5,5,6,4,3,3,3,2,4,3,3,3,3,3,1,1,2,1,1,2,1,1
+3/3/2023 4:01,12,4,4,4,5,6,4,4,4,3,2,4,3,3,3,3,2,1,1,2,1,1,2,1,1
+3/3/2023 4:27,12,4,5,4,5,6,4,4,4,3,2,3,3,3,3,3,2,1,1,2,1,1,1,1,1
+3/3/2023 4:36,12,5,6,5,6,6,3,2,3,2,2,3,2,3,3,3,2,2,1,2,1,1,1,1,1
+3/3/2023 4:46,12,6,6,6,6,6,2,2,2,2,2,2,2,2,2,2,2,2,1,2,1,1,1,1,1
+3/3/2023 5:01,12,6,6,6,6,7,2,2,2,2,2,2,2,2,2,2,3,3,1,3,1,1,1,1,1
+3/3/2023 5:21,12,7,7,7,7,7,2,2,2,2,2,2,1,1,1,2,4,3,1,3,1,1,1,1,1
+3/3/2023 4:36,13,6,6,6,5,6,3,3,2,3,2,3,2,3,3,3,2,2,1,1,1,1,2,2,2
+3/3/2023 4:47,13,6,6,6,6,6,2,2,2,3,2,2,2,2,1,2,2,1,1,1,1,2,2,2,2
+3/3/2023 3:01,13,5,4,5,5,5,3,3,3,3,3,3,2,2,2,3,2,1,1,1,2,1,2,2,2
+3/3/2023 3:15,13,6,6,6,5,6,2,2,2,2,2,2,1,1,2,2,3,2,1,1,2,1,2,2,2
+3/3/2023 4:01,13,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,1,1,1,2,1,1,2,2,2
+3/3/2023 4:16,13,4,5,5,4,4,3,4,3,4,4,3,3,3,2,2,2,1,1,1,1,2,2,2,2
+3/3/2023 4:36,13,5,4,5,4,5,2,3,2,3,2,3,2,3,2,2,2,1,1,2,2,2,2,1,2
+3/3/2023 4:45,13,5,5,5,5,5,3,3,3,3,3,3,3,3,2,2,2,1,1,2,2,2,2,1,1
+3/3/2023 5:16,13,5,5,5,4,5,3,4,3,4,3,3,3,3,3,3,2,1,1,2,2,1,2,1,2
+3/3/2023 5:20,13,5,5,5,5,5,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,1,1,1
+3/3/2023 4:35,14,5,5,6,5,6,2,3,2,3,2,4,3,2,2,3,1,1,1,2,1,1,1,1,1
+3/3/2023 4:47,14,5,6,5,6,5,2,3,2,3,2,4,3,2,2,3,1,1,1,2,1,1,1,1,1
+3/3/2023 3:01,14,6,5,6,5,6,3,3,2,3,2,4,3,2,2,3,1,1,1,3,2,2,1,1,1
+3/3/2023 3:17,14,5,5,6,5,6,3,3,2,3,2,4,3,3,3,3,1,1,1,2,2,2,1,1,1
+3/3/2023 3:35,14,5,5,6,5,5,3,3,3,3,3,3,2,2,2,3,1,3,1,3,2,2,1,1,1
+3/3/2023 3:39,14,4,5,4,4,4,4,4,4,4,4,4,2,3,3,3,1,2,1,2,2,2,1,1,1
+3/3/2023 3:46,14,4,4,5,4,5,4,3,3,4,4,4,3,3,3,3,1,2,1,3,2,2,1,1,1
+3/3/2023 4:00,14,4,4,4,4,5,4,4,4,4,4,4,3,3,3,3,1,2,1,3,1,1,1,1,1
+3/3/2023 4:26,14,4,4,4,4,4,4,4,4,4,4,4,3,5,5,3,1,1,1,2,1,1,1,1,1
+3/3/2023 4:36,14,5,5,5,5,5,2,2,2,2,2,4,3,3,3,3,1,2,1,2,2,2,1,1,1
+3/3/2023 4:46,14,5,4,5,5,5,3,3,4,3,3,4,3,3,3,3,1,2,1,2,1,1,1,1,1
+3/3/2023 5:15,14,4,5,5,4,5,3,2,3,3,3,4,2,3,3,3,1,2,1,2,1,1,1,1,1
+3/3/2023 5:21,14,5,4,5,5,5,3,3,3,3,3,4,3,3,3,3,1,1,1,2,1,1,1,1,1
+3/3/2023 4:38,15,6,7,6,6,6,1,1,1,2,1,4,2,2,2,2,1,2,1,1,2,1,2,1,2
+3/3/2023 4:47,15,7,7,7,7,7,1,1,1,1,1,3,2,2,2,2,1,2,1,1,2,2,2,1,2
+3/3/2023 3:01,15,6,6,6,6,6,1,1,1,2,1,3,2,2,2,2,2,2,2,1,2,1,2,2,2
+3/3/2023 3:17,15,7,7,7,7,7,1,1,1,1,1,3,2,2,2,2,2,3,1,1,2,2,2,1,2
+3/3/2023 3:45,15,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,2,2,1,1,1,2,2,1,2
+3/3/2023 4:01,15,4,4,4,4,4,4,4,4,4,4,4,3,5,5,5,1,1,1,2,1,1,2,2,2
+3/3/2023 4:26,15,3,3,3,3,4,5,5,5,5,5,5,3,5,5,5,1,1,1,3,1,1,2,2,2
+3/3/2023 4:46,15,5,5,5,5,5,4,4,4,4,4,4,3,3,3,3,1,1,1,2,1,2,2,2,2
+3/3/2023 5:08,15,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,1,2,1,3,1,2,2,2,2
+3/3/2023 5:15,15,5,5,5,5,5,4,4,4,4,4,4,3,3,3,3,1,1,1,2,2,2,2,2,2
+3/3/2023 4:38,16,4,3,4,4,3,4,4,4,4,4,3,2,3,3,3,1,2,1,1,1,1,2,1,1
+3/3/2023 3:15,16,4,4,4,4,4,4,4,4,4,4,3,2,2,2,2,1,2,2,1,1,1,2,1,1
+3/3/2023 3:37,16,6,6,6,6,5,1,2,1,2,1,2,1,2,2,2,1,3,2,2,1,1,2,1,1
+3/3/2023 3:41,16,4,5,5,5,4,6,5,5,6,5,4,2,3,5,3,1,2,1,1,1,1,1,1,1
+3/3/2023 3:49,16,2,3,4,3,3,5,5,4,5,5,3,2,3,3,5,1,1,1,1,1,1,1,1,1
+3/3/2023 4:16,16,2,2,3,3,3,5,5,5,6,5,3,2,3,5,5,1,3,1,3,1,2,2,1,1
+3/3/2023 4:28,16,2,3,3,3,3,5,5,5,5,5,2,2,3,5,3,1,2,1,3,1,1,1,1,2
+3/3/2023 4:37,16,4,4,4,4,4,4,4,4,4,4,4,3,5,5,3,1,2,1,2,1,1,1,1,2
+3/3/2023 4:47,16,5,5,5,5,4,3,4,3,4,3,4,3,5,3,3,1,2,1,2,1,1,1,1,1
+3/3/2023 5:15,16,5,5,5,4,5,4,4,3,4,3,4,3,3,3,5,1,3,1,2,1,1,1,1,2
+3/3/2023 5:16,16,4,3,4,4,4,4,4,3,4,3,4,3,3,3,3,1,1,1,1,1,1,1,1,2
+3/3/2023 4:37,17,4,3,4,4,4,4,4,4,4,4,4,2,2,2,2,1,1,1,2,1,1,1,1,1
+3/3/2023 4:47,17,5,6,6,5,6,3,4,3,3,2,4,2,3,3,3,1,2,2,1,1,1,1,1,1
+3/3/2023 3:01,17,6,6,5,6,6,3,2,2,3,3,4,3,2,3,3,1,2,2,1,1,1,1,1,1
+3/3/2023 3:16,17,5,5,5,5,5,4,4,4,4,4,4,3,3,3,3,1,1,1,2,1,1,1,1,1
+3/3/2023 3:40,17,3,4,3,3,4,5,4,5,5,4,4,3,3,6,5,1,1,1,2,1,1,1,1,1
+3/3/2023 3:47,17,3,3,3,3,3,5,5,5,6,5,4,3,6,6,5,2,1,1,2,1,1,1,1,1
+3/3/2023 4:01,17,3,4,3,3,3,5,4,5,5,4,4,3,6,6,5,2,1,1,1,1,1,1,1,1
+3/3/2023 4:27,17,3,3,3,3,3,4,5,5,4,4,4,3,5,5,3,2,1,1,2,1,1,1,1,1
+3/3/2023 4:37,17,4,4,4,4,5,5,6,5,5,5,5,4,3,6,5,1,1,1,1,1,1,1,1,1
+3/3/2023 4:47,17,4,4,4,4,4,4,5,4,5,4,5,3,3,5,5,1,1,1,1,1,1,1,1,1
+3/3/2023 5:16,17,5,5,5,5,5,4,4,4,4,4,4,3,3,5,5,1,1,1,2,1,1,1,1,1
+3/3/2023 5:20,17,5,5,5,5,5,4,5,5,4,4,4,4,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:36,18,5,5,6,4,4,1,1,1,1,1,4,3,3,3,3,1,1,2,1,1,1,1,1,1
+3/3/2023 4:48,18,5,5,5,4,4,1,1,1,1,1,3,3,3,3,3,1,2,2,1,1,1,1,1,1
+3/3/2023 3:00,18,5,5,5,5,4,3,3,3,3,3,3,3,3,3,3,1,2,1,1,1,1,1,1,1
+3/3/2023 3:16,18,5,5,5,5,5,3,3,3,3,3,3,3,3,3,3,1,2,1,1,1,1,1,1,1
+3/3/2023 3:40,18,4,5,4,4,4,4,4,3,4,3,4,3,3,5,5,2,2,1,2,1,2,1,1,1
+3/3/2023 3:49,18,4,5,4,4,4,4,4,3,5,3,4,3,6,6,6,2,2,1,2,1,1,1,1,1
+3/3/2023 4:01,18,3,3,3,3,3,4,5,4,4,3,4,3,6,5,5,1,2,1,3,1,1,1,1,1
+3/3/2023 4:27,18,2,2,2,2,2,5,5,5,5,4,5,4,7,6,7,1,2,1,4,1,1,1,1,1
+3/3/2023 4:36,18,4,4,4,4,4,1,1,1,1,1,5,3,3,3,3,1,2,1,4,1,1,1,1,1
+3/3/2023 4:48,18,4,4,4,4,4,1,1,1,1,1,5,3,5,3,5,1,2,1,4,1,1,1,1,1
+3/3/2023 5:00,18,4,5,5,5,5,2,2,2,1,1,4,4,3,3,3,1,2,1,3,1,1,1,1,1
+3/3/2023 5:21,18,5,3,5,5,4,2,2,2,2,1,4,3,3,3,3,1,2,1,2,1,1,1,1,1
+3/3/2023 4:36,19,5,5,5,5,6,2,2,2,2,1,5,3,3,2,3,1,2,1,1,1,1,1,1,1
+3/3/2023 4:47,19,6,6,6,6,6,2,2,2,2,2,4,3,2,2,3,1,2,1,1,1,1,1,1,1
+3/3/2023 3:00,19,6,6,6,6,6,2,2,2,2,2,4,3,2,2,3,1,3,1,1,1,1,1,1,1
+3/3/2023 3:17,19,6,6,6,6,6,2,2,2,2,1,3,3,2,2,3,2,2,1,1,1,1,1,1,1
+3/3/2023 3:31,19,6,6,6,6,6,2,2,2,2,2,3,3,2,2,3,2,2,1,1,1,1,1,1,1
+3/3/2023 3:40,19,4,4,4,4,5,5,5,5,5,5,4,3,3,3,3,1,2,1,1,1,1,1,1,1
+3/3/2023 3:48,19,4,4,4,4,4,5,5,5,5,4,4,3,3,3,3,1,1,1,1,2,1,1,1,1
+3/3/2023 4:01,19,4,4,4,4,4,5,5,5,5,4,4,3,3,5,3,2,2,1,2,2,1,1,1,1
+3/3/2023 4:26,19,4,4,4,4,4,5,5,5,5,5,4,3,3,3,3,2,2,1,2,2,1,1,1,1
+3/3/2023 4:36,19,4,4,4,4,4,3,3,3,3,3,4,3,3,3,3,2,2,1,2,2,1,1,1,1
+3/3/2023 4:46,19,5,5,5,5,5,2,2,2,2,2,4,3,3,3,3,2,2,1,2,2,1,1,1,1
+3/3/2023 5:16,19,6,6,6,6,6,2,2,2,2,2,3,3,2,2,3,2,2,2,2,2,1,1,1,1
+3/3/2023 5:21,19,6,6,6,6,6,2,2,2,2,2,4,3,1,2,3,2,2,2,2,2,1,2,1,1
+3/3/2023 4:36,20,5,5,6,5,5,3,3,2,3,4,6,3,3,3,3,1,1,2,1,1,1,1,1,1
+3/3/2023 4:47,20,5,5,5,4,5,3,3,3,3,3,4,3,3,3,3,1,2,1,1,1,1,1,1,1
+3/3/2023 3:01,20,5,5,6,5,5,3,3,3,3,3,4,3,3,3,3,1,3,2,2,1,2,1,1,1
+3/3/2023 3:18,20,6,6,6,5,6,3,3,2,3,3,5,3,2,3,3,2,3,2,2,2,2,1,1,1
+3/3/2023 3:31,20,5,5,5,5,5,2,2,2,3,3,3,2,2,2,3,2,2,2,2,1,2,1,1,1
+3/3/2023 3:40,20,4,4,5,4,4,5,5,4,5,4,3,2,3,3,3,2,2,3,3,3,2,2,1,1
+3/3/2023 3:48,20,4,3,4,3,4,4,5,4,5,4,3,2,5,5,3,2,2,2,2,2,1,1,1,1
+3/3/2023 4:01,20,3,3,4,3,4,5,5,4,5,4,3,2,3,3,3,2,3,2,3,2,2,2,1,1
+3/3/2023 4:27,20,3,4,4,4,4,4,4,4,4,4,4,3,3,3,3,2,2,2,4,2,2,2,1,1
+3/3/2023 4:36,20,6,5,6,5,6,2,2,1,2,1,2,2,1,2,3,3,2,2,2,2,1,2,1,1
+3/3/2023 4:46,20,6,6,6,6,6,2,2,2,2,2,2,2,1,1,2,1,2,2,2,1,1,2,1,1
+3/3/2023 5:16,20,7,7,7,7,7,2,2,2,2,2,2,1,1,1,1,2,2,1,2,2,1,2,1,1
+3/3/2023 5:21,20,7,7,7,7,7,1,1,1,1,1,1,2,1,1,1,1,2,1,3,2,2,1,1,1
+3/3/2023 4:35,21,4,5,4,3,5,2,2,2,2,2,5,3,5,1,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:47,21,5,6,5,5,5,2,2,2,2,2,3,3,3,2,3,1,1,1,1,1,1,1,1,1
+3/3/2023 3:00,21,6,6,6,6,6,1,1,1,1,1,2,2,3,2,2,1,1,1,1,1,1,1,1,1
+3/3/2023 3:18,21,6,6,6,6,6,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1
+3/3/2023 3:16,21,6,6,6,6,6,1,1,1,1,1,3,2,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 3:40,21,4,4,4,4,4,4,3,3,4,3,4,3,5,5,3,1,1,1,2,1,1,1,1,1
+3/3/2023 3:47,21,4,4,4,4,4,4,4,3,4,3,3,3,5,5,5,1,1,1,3,1,1,1,1,1
+3/3/2023 4:01,21,4,4,5,4,4,4,3,3,4,3,4,3,5,5,5,1,1,1,3,1,1,1,1,1
+3/3/2023 4:27,21,4,4,4,3,4,4,4,4,4,3,4,3,5,3,3,1,1,1,4,1,1,1,1,1
+3/3/2023 4:46,21,4,4,4,4,5,1,1,1,1,1,4,3,3,1,3,1,1,1,3,1,1,1,1,1
+3/3/2023 5:01,21,5,5,5,5,5,1,1,1,1,1,3,3,3,3,3,1,1,1,1,1,1,1,2,1
+3/3/2023 5:20,21,4,4,4,4,5,1,1,1,1,1,4,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:36,22,6,5,6,5,6,1,1,1,1,1,3,3,3,3,3,1,1,2,2,1,1,1,1,1
+3/3/2023 4:48,22,5,5,6,5,5,1,1,1,1,1,3,3,3,3,3,1,1,1,2,1,1,1,1,1
+3/3/2023 3:01,22,6,6,6,5,5,2,2,2,2,2,3,3,2,2,2,1,1,1,2,1,1,1,1,1
+3/3/2023 3:16,22,7,7,7,7,7,1,1,1,1,1,3,3,1,1,2,1,1,1,2,1,1,1,1,1
+3/3/2023 3:41,22,4,4,5,4,4,4,4,4,4,4,3,3,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 3:47,22,4,4,4,4,4,4,4,4,4,4,4,3,5,5,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:01,22,4,4,4,4,4,4,4,4,4,4,3,3,5,3,3,1,1,3,1,1,1,1,1,1
+3/3/2023 4:27,22,4,4,5,4,4,4,4,3,4,4,4,2,5,3,3,2,1,1,2,1,1,1,1,1
+3/3/2023 4:36,22,5,4,5,5,5,3,3,3,3,3,4,3,3,3,5,1,1,2,2,1,1,1,1,1
+3/3/2023 4:46,22,5,5,5,5,5,3,3,3,3,3,3,3,3,3,3,1,1,1,2,1,1,1,1,1
+3/3/2023 5:16,22,5,5,5,5,5,2,3,2,3,3,4,3,3,3,3,1,2,1,2,1,1,1,1,1
+3/3/2023 5:21,22,4,4,4,4,4,3,3,4,4,4,4,4,5,3,3,2,2,1,2,1,1,1,1,1
+3/3/2023 4:36,23,5,5,6,5,6,2,3,2,3,2,2,1,1,1,1,1,3,3,2,1,2,1,1,1
+3/3/2023 4:48,23,4,4,5,4,5,4,4,3,4,3,3,2,2,2,2,1,2,2,1,1,2,1,1,1
+3/3/2023 3:01,23,4,4,5,4,5,4,4,3,4,3,4,3,2,2,2,1,1,2,2,1,2,1,1,1
+3/3/2023 3:18,23,4,4,5,4,6,3,3,2,3,2,3,2,2,2,2,2,2,2,3,2,3,1,1,1
+3/3/2023 3:16,23,4,4,4,4,7,2,2,2,2,2,3,2,2,2,2,2,2,3,4,2,2,1,1,1
+3/3/2023 3:40,23,4,4,5,4,6,4,4,3,4,2,3,2,2,2,2,2,3,3,4,2,3,2,2,2
+3/3/2023 3:48,23,4,4,4,4,5,4,4,3,4,3,4,2,2,2,2,2,3,3,4,3,3,1,1,1
+3/3/2023 4:01,23,4,4,4,4,5,4,4,3,4,2,3,2,2,2,2,2,2,3,4,3,3,1,1,1
+3/3/2023 4:28,23,4,4,4,4,4,4,4,4,4,4,3,2,2,2,2,2,3,3,4,2,2,1,1,1
+3/3/2023 4:36,23,4,4,4,4,4,4,4,4,4,3,4,4,2,2,2,2,3,3,4,3,4,1,1,1
+3/3/2023 4:46,23,4,4,4,4,4,3,3,3,3,2,3,2,2,2,2,3,3,4,4,3,3,1,1,1
+3/3/2023 5:16,23,4,4,4,4,4,4,4,4,4,3,3,2,2,2,2,2,3,3,4,3,3,1,1,1
+3/3/2023 5:16,23,4,4,4,4,5,4,4,4,4,3,4,3,2,2,2,3,3,3,4,3,3,1,1,1
+3/3/2023 4:38,24,4,4,3,4,4,5,5,4,5,4,3,4,3,3,3,1,1,1,1,1,1,1,1,1
+3/3/2023 4:48,24,4,4,4,3,4,4,5,4,4,4,3,3,6,5,6,2,2,1,1,1,1,1,1,1
+3/3/2023 3:16,24,5,5,5,4,5,3,3,2,3,2,3,4,3,3,3,2,3,1,1,1,1,1,1,1
+3/3/2023 3:16,24,5,5,5,5,5,3,3,3,2,2,3,2,3,3,3,2,3,1,1,1,1,1,1,1
+3/3/2023 3:40,24,4,4,5,4,5,4,5,4,4,4,4,3,5,5,5,2,2,1,1,1,1,1,1,1
+3/3/2023 3:50,24,3,3,3,3,4,5,5,4,5,4,5,3,6,7,6,1,2,1,2,1,1,1,1,1
+3/3/2023 4:16,24,3,5,3,2,2,5,5,4,5,4,5,4,6,7,5,3,2,1,3,1,1,1,1,1
+3/3/2023 4:28,24,3,3,4,3,5,4,5,5,4,3,6,3,5,6,5,2,3,1,3,1,1,1,1,1
+3/3/2023 4:38,24,5,5,6,5,6,3,3,2,3,2,4,3,3,3,3,2,2,1,2,1,1,1,1,1
+3/3/2023 4:47,24,5,6,6,6,5,3,3,3,3,3,5,3,3,3,3,2,2,1,2,1,1,1,1,1
+3/3/2023 5:16,24,5,4,5,4,5,3,3,2,2,3,4,3,3,3,3,2,2,1,2,1,1,1,1,1
+3/3/2023 5:16,24,4,3,4,3,4,3,4,3,4,3,4,4,5,3,3,2,2,1,2,1,1,1,1,1
+3/3/2023 4:36,25,4,4,4,4,4,1,1,1,1,1,4,3,3,3,3,1,1,1,1,1,1,1,1,1
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,1,,,,,,,,,,,,,,,,,,,,,,
